@@ -1,6 +1,6 @@
-FROM benyoo/alpine:3.4.20160812
+FROM kbqallan/alpine:latest
 
-MAINTAINER from www.dwhd.org by lookback (mondeolove@gmail.com)
+MAINTAINER from kbqallan(443831995@qq.com)
 
 ARG VERSION=${VERSION:-7.2.2}
 ARG SHA256=${SHA256:-e563cee406b1ec96649c22ed2b35796cfe4e9aa9afa6eab6be4cf2fe5d724744}
